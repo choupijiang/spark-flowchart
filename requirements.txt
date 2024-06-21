@@ -2,3 +2,6 @@ mkdocs-include-markdown-plugin
 mkdocs-mermaid2-plugin
 mkdocs
 git-filter-repo
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
