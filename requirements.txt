@@ -2,3 +2,4 @@ mkdocs-include-markdown-plugin
 mkdocs-mermaid2-plugin
 mkdocs
 git-filter-repo
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
